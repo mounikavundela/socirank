@@ -1,0 +1,22 @@
+
+create database live;
+use live;
+
+create table users(
+userid   varchar(20) primary key,
+password  varchar(20),
+typs	  varchar(1));
+
+insert into users values('admin','admin','a');
+
+create table data(
+country     varchar(30),
+city   	varchar(50),
+area 	varchar(100),
+lati             varchar(50),
+longt          varchar(50),
+topic 	varchar(100),
+comment 	varchar(200),
+review 	varchar(1),
+device     varchar(1),
+NEWSMEDIA   VARCHAR(20));

@@ -1,0 +1,21 @@
+india,kadapa,kadapa,14.4674,78.8241,Redime Mobile,Battery Problem,2,w,tv9
+india,Hyderabad,Ameerpet,17.4375,78.4483,Redime Mobile,Battery Problem,2,w,tv9
+india,Hyderabad,Hyderabad,17.3851,78.4867,Redime Mobile,Battery Problem,2,w,tv9
+india,Chennai,Chennai,13.0827,80.2707,Redime Mobile,Battery Problem,2,l,tv9
+india,Bangaluru,Bangaluru,12.9716,77.5946,Redime Mobile,Battery Problem,2,l,tv9
+india,kadapa,kadapa,14.4674,78.8241,Redime Mobile,Very Good Mobile,1,w,tv9
+india,Hyderabad,Ameerpet,17.4375,78.4483,Redime Mobile,Very Good Mobile,1,w,abn
+india,Hyderabad,Hyderabad,17.3851,78.4867,Redime Mobile,Very Good Mobile,1,w,abn
+india,Chennai,Chennai,13.0827,80.2707,Redime Mobile,Very Good Mobile,1,w,abn
+india,Bangaluru,Bangaluru,12.9716,77.5946,Redime Mobile,Very Good Mobile,1,l,abn
+india,kadapa,kadapa,14.4674,78.8241,Redime Mobile,Super Camera,1,l,abn
+india,Hyderabad,Ameerpet,17.4375,78.4483,Redime Mobile,Super Camera,1,l,abn
+india,Hyderabad,Hyderabad,17.3851,78.4867,Redime Mobile,Super Camera,1,w,abn
+india,Chennai,Chennai,13.0827,80.2707,Redime Mobile,Super Camera,1,w,abn
+india,Bangaluru,Bangaluru,12.9716,77.5946,Redime Mobile,Super Camera,1,w,abn
+austrialia,sydney,sydney,51.5074,0.1278,ysr,super,1,w,abn
+india,Bangaluru,Bangaluru,12.9716,77.5946,xxxxx,yyyyy,1,w,abn
+austrialia,sydney,sydney,51.5074,0.1278,tdp,super,1,w,abn
+austrialia,sydney,sydney,51.5074,0.1278,bjp,super,1,w,abn
+india,kadapa,kadapa,14.4674,78.8241,lg,good,1,w,tv9
+

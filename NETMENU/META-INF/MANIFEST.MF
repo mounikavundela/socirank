@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+
+Name: NetMenu.class
+Java-Bean: False
+Digest-Algorithms: SHA MD5 
+SHA-Digest: 08zUv6ZO3KlnPxcru4bXnwaEXtY=
+MD5-Digest: +b7vPTQ48wwFUnFZqNbK3w==
+
